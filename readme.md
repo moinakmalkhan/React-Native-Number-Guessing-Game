@@ -1,6 +1,6 @@
 # Number Guessing Game
 ### Number Guessing Game using React native
-A simple Number Guessing mobile game in which user give a number as input and computing will try to guess that number according to user guidance.
+A simple Number Guessing mobile game in which user give a number as input and computer will try to guess that number according to user guidance.
 ## Install the App
 Make sure you have installed node.js on your machine.
 
